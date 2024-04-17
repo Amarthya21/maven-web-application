@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Uptime Career. Maharasthra,India</h1>
-<h1 align="center"> Amarthya Learning Devops with Real Time scnerios</h1>
+<h1 align="center"> Amarthya Learning Devops with Real Time scnerios done 2 Assignment</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
